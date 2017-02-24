@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos Avanzadas
 
-## Práctica 1: El Juego de la Vida
+## Práctica 1: El Juego de la Vida (modificación)
 
 ### Objetivo
 
